@@ -1,0 +1,8 @@
+.albyms .card:hover{
+    outline:4px solid #ffdd4d;
+    transition: all 0.5s;
+}
+
+.albyms a{
+    color: gray;
+}

@@ -1,0 +1,6 @@
+.list-group-item:hover{
+    outline:4px solid #ffdd4d;
+    z-index: 1;
+    cursor: pointer;
+    transition: all 0.5s;
+}
